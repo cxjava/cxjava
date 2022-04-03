@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **cxjava/cxjava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/cxjava">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cxjava&count_private=true&show_icons=true&theme=gruvbox_light" alt="Xin's github stats" />
+</a>
+<a href="https://github.com/cxjava">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxjava&layout=compact" alt="Top Langs" />
+</a>
